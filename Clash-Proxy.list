@@ -1,3 +1,4 @@
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,grindr.com
-DOMAIN-SUFFIX,grindr.mobi
+payload:
+  - '+.linkedin.com'
+  - '+.grindr.com'
+  - '+.grindr.mobi'
