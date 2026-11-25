@@ -1,4 +1,7 @@
 payload:
+  - 'linkedin.com'
   - '+.linkedin.com'
+  - 'grindr.com'
   - '+.grindr.com'
+  - 'grindr.mobi'
   - '+.grindr.mobi'
