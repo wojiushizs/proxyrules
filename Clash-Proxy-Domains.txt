@@ -5,3 +5,5 @@ payload:
   - '+.grindr.com'
   - 'grindr.mobi'
   - '+.grindr.mobi'
+  - 'www.gstatic.com'
+  - 'ssl.gstatic.com'
